@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.8.2",
-    "@sdp-components/core": "latest"
+    "@sdp-components/core": "latest",
+    "react": "^16.8.2"
   }
 }
